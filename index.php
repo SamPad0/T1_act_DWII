@@ -1,5 +1,5 @@
 <?php
-
+//samuel andres padilla ospino
 $host = "localhost";
 $usuario = "root";
 $password = "";
@@ -152,6 +152,6 @@ function borrarEstudiante($conexion, $id)
     }
 }
 
-// Agrega las funciones CRUD para las demás tablas (Profesores, Cursos y Matriculas) aquí
+// samuel Agrega las funciones CRUD para las demás tablas (Profesores, Cursos y Matriculas) aquí
 
 ?>
